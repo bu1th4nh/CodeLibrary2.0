@@ -17,4 +17,5 @@
 
 ---
 Work (c) 2025 bu1th4nh with MIT License. 
-Written with dedication in the University of Central Florida, EPCOT and the Magic Kingdom.
+
+Written with dedication from the University of Central Florida, EPCOT and the Magic Kingdom.
