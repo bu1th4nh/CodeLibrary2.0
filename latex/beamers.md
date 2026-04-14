@@ -29,4 +29,16 @@ To insert the footnote text at the bottom of the page:
 ```
 
 
-## 
+## Multiple coulumns list
+```latex
+\begin{multicols}{2}
+    \begin{itemize}
+        \item item 1
+        \item item 2
+        \item item 3
+        \item item 4
+        \item item 5
+        \item item 6
+    \end{itemize}
+\end{multicols}
+```
